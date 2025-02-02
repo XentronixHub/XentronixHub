@@ -36,13 +36,14 @@
 <!-- Линия прогресса -->
   <img src="https://img.shields.io/badge/Project%20Completion-80%25-green" alt="Project Completion"/>
 </p> 
-
+<!-- Проекты (Пример)
 **2. [Проект 2](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**  
 Описание проекта.
-
+-->
+<!--
 **3. [Проект 3](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**  
 Описание проекта.
-
+-->
 ## 📊 GitHub Статистика
 ![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=Xentronix&show_icons=true&count_private=true&theme=tokyonight)  
 

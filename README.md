@@ -23,6 +23,11 @@
 **1. [Автопостинг из Telegram в ВКонтакте](https://github.com/love-angelll/autopost)**  
 Этот проект представляет собой скрипт на Python, который автоматически публикует сообщения из Telegram-канала или чата в указанную группу ВКонтакте. По ссылке подробнее..
 
+<!-- Статус репозитория -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/love-angelll/autopost?style=social" alt="Repository Status" />
+</p>
+
 **2. [Проект 2](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**  
 Описание проекта.
 

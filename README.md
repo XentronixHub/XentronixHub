@@ -59,8 +59,8 @@
 
 <!-- Взаимодействие -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" alt="Follow" />
-  <img src="https://img.shields.io/github/watchers/YOUR_USERNAME/REPO_NAME?style=social" alt="Watch" />
+  <img src="https://img.shields.io/github/followers/Xentronix?style=social" alt="Follow" />
+  <img src="https://img.shields.io/github/watchers/Xentronix/REPO_NAME?style=social" alt="Watch" />
 </p>
 
 ### Спасибо, что заглянули в мой профиль!  

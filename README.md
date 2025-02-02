@@ -23,7 +23,7 @@
 **1. [Автопостинг из Telegram в ВКонтакте](https://github.com/love-angelll/autopost)**  
 Этот проект представляет собой скрипт на Python, который автоматически публикует сообщения из Telegram-канала или чата в указанную группу ВКонтакте. По ссылке подробнее..
 
-<!-- Бейджики достижений -->
+<!-- Бейджики достижений и процентов -->
 <p align="center">
   <img src="https://img.shields.io/github/forks/love-angelll/autopost" alt="Forks" />
   <img src="https://img.shields.io/github/stars/love-angelll/autopost" alt="Stars" />
@@ -31,6 +31,9 @@
 <!-- Линия прогресса -->
   <img src="https://img.shields.io/badge/Project%20Completion-80%25-green" alt="Project Completion"/>
 </p> 
+
+<!-- Telegram Badge -->
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Subscribe%20Now-blue)](https://t.me/heaven_for_music_lovers) 
 
 **2. [Проект 2](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**  
 Описание проекта.

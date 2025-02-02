@@ -39,10 +39,10 @@
 ## 👁️ Просмотры профиля
 ![Profile Views](https://komarev.com/ghpvc/?username=Xentronix&label=Profile%20Views&color=blue)
 
-<!-- Змейка -->
+<!-- Анимация ночного города -->
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+  <img src="https://raw.githubusercontent.com/Aniket7627/Aniket7627/main/assets/images/night_city.gif" alt="night city" />
+</p> 
 
 ### Спасибо, что заглянули в мой профиль!  
 Если вам нужно больше информации или у вас есть вопросы, не стесняйтесь писать мне.  

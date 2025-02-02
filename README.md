@@ -32,8 +32,8 @@
 
 <!-- Линия прогресса -->
 <p align="center">
-  <img src="https://badge.mediastack.com/progress/80?title=Project%20Completion" alt="Project Completion Progress Bar" />
-</p>
+  <img src="https://img.shields.io/badge/Project%20Completion-80%25-green" alt="Project Completion"/>
+</p> 
 
 **2. [Проект 2](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**  
 Описание проекта.

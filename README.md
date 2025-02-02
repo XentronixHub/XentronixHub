@@ -41,7 +41,7 @@
 
 <!-- Счётчик посещений -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Xentronix&color=blue" alt="Profile Views" />
 </p>
 
 <!-- Анимация ночного города -->

@@ -39,6 +39,11 @@
 ## 👁️ Просмотры профиля
 ![Profile Views](https://komarev.com/ghpvc/?username=Xentronix&label=Profile%20Views&color=blue)
 
+<!-- Счётчик посещений -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" alt="Profile Views" />
+</p>
+
 <!-- Анимация ночного города -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aniket7627/Aniket7627/main/assets/images/night_city.gif" alt="night city" />

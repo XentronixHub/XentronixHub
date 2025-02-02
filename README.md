@@ -44,6 +44,11 @@
   <img src="https://raw.githubusercontent.com/Aniket7627/Aniket7627/main/assets/images/night_city.gif" alt="night city" />
 </p> 
 
+<!-- Часы -->
+<p align="center">
+  <img src="https://time.is/clock.svg" alt="time" />
+</p>
+
 ### Спасибо, что заглянули в мой профиль!  
 Если вам нужно больше информации или у вас есть вопросы, не стесняйтесь писать мне.  
 

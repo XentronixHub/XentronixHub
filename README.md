@@ -31,8 +31,10 @@
 
 ## 📊 GitHub Статистика
 ![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=Xentronix&show_icons=true&count_private=true&theme=tokyonight)  
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Xentronix&layout=compact&theme=tokyonight)
 
+## 👨🏻‍💻 Используемые ЯП
+
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Xentronix&layout=compact&theme=tokyonight)
 
 ## 👁️ Просмотры профиля
 ![Profile Views](https://komarev.com/ghpvc/?username=Xentronix&label=Profile%20Views&color=blue)
@@ -45,4 +47,7 @@ XentronixHub/XentronixHub is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 XentronixHub/XentronixHub — это ✨ специальный ✨ репозиторий, потому что его «README.md» (этот файл) отображается в вашем профиле GitHub.
 Вы можете нажать на ссылку «Предварительный просмотр», чтобы просмотреть свои изменения. 
+
+ЭТОТ ТЕКСТ НЕ ВИДЕН И ЗА ЕГО СТРУКТУРЫ
+
 --->

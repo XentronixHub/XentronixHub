@@ -49,6 +49,7 @@
 
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Xentronix&layout=compact&theme=tokyonight)
 
+<h2 align="center">Информация о профиле</h2>
 <!-- Бейдж подписчиков | 👁️ Просмотры профиля -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Xentronix&color=blue" alt="Profile Views" />
@@ -56,12 +57,6 @@
 </p>
 
 
-
-<!-- Взаимодействие -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Xentronix?style=social" alt="Follow" />
-  <img src="https://img.shields.io/github/watchers/Xentronix/XentronixHub?style=social" alt="Watch" />
-</p>
 
 ### Спасибо, что заглянули в мой профиль!  
 Если вам нужно больше информации или у вас есть вопросы, не стесняйтесь писать мне.  

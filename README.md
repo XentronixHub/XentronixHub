@@ -31,6 +31,8 @@
 <!-- Линия прогресса -->
   <img src="https://img.shields.io/badge/Project%20Completion-80%25-green" alt="Project Completion"/>
 </p> 
+<!-- Версия проекта -->
+![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)
 
 **2. [Проект 2](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**  
 Описание проекта.

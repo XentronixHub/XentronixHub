@@ -3,11 +3,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<!-- Загрузочный индикатор -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYtb9y73QyODv1i/giphy.gif" alt="loading" />
-</p>
-
 <h1 align="center">Добро пожаловать в<br>Xentronix
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 

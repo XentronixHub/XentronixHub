@@ -36,10 +36,7 @@
 
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Xentronix&layout=compact&theme=tokyonight)
 
-## 👁️ Просмотры профиля
-![Profile Views](https://komarev.com/ghpvc/?username=Xentronix&label=Profile%20Views&color=blue)
-
-<!-- Счётчик посещений -->
+<!-- Счётчик посещений | 👁️ Просмотры профиля -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Xentronix&color=blue" alt="Profile Views" />
 </p>

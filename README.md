@@ -46,7 +46,7 @@
 <!-- Бейдж подписчиков | 👁️ Просмотры профиля -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Xentronix&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/Xentronix?label=Follow&style=social" alt="GitHub Followers" />
 </p>
 
 <!-- Анимация ночного города -->

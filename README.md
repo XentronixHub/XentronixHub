@@ -39,6 +39,11 @@
 ## 📊 GitHub Статистика
 ![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=Xentronix&show_icons=true&count_private=true&theme=tokyonight)  
 
+<!-- Панель достижений -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Xentronix&theme=onedark&no-frame=true&column=7" alt="GitHub Achievements" />
+</p>
+
 ## 👨🏻‍💻 Используемые ЯП
 
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Xentronix&layout=compact&theme=tokyonight)

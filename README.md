@@ -3,6 +3,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<!-- Приветствие -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhZTE3NjI5ZGEzNjU1NzRmMzA0NmU3NzAyMTgwZWFmYjBhZTNhZDE0ZCVkfnlu2EpMmCuT8MvsWrTyv/giphy.gif" alt="Hi" />
+</p>
+
 <h1 align="center">Добро пожаловать в<br>Xentronix
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 

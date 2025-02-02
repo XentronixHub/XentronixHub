@@ -8,7 +8,7 @@
 
 <!-- Автор проекта -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-Xentronix-blue?style=for-the-badge" alt="Author">
+  <img src="https://img.shields.io/badge/Author-XentronixHub-blue?style=for-the-badge" alt="Author">
 </p> 
 
 **XentronixHub** — это цифровая площадка для всего, что связано с технологиями и инновациями. Здесь код оживает, а разработчики, создатели и энтузиасты собираются, чтобы исследовать, учиться и создавать передовые проекты.

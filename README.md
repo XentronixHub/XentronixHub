@@ -28,10 +28,7 @@
   <img src="https://img.shields.io/github/forks/love-angelll/autopost" alt="Forks" />
   <img src="https://img.shields.io/github/stars/love-angelll/autopost" alt="Stars" />
   <img src="https://img.shields.io/github/issues/love-angelll/autopost" alt="Issues" />
-</p>
-
 <!-- Линия прогресса -->
-<p align="center">
   <img src="https://img.shields.io/badge/Project%20Completion-80%25-green" alt="Project Completion"/>
 </p> 
 

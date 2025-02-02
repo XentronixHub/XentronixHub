@@ -29,13 +29,10 @@
 **3. [Проект 3](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**  
 Описание проекта.
 
----
-
 ## 📊 GitHub Статистика
 ![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=Xentronix&show_icons=true&count_private=true&theme=tokyonight)  
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Xentronix&layout=compact&theme=tokyonight)
 
----
 
 ## 👁️ Просмотры профиля
 ![Profile Views](https://komarev.com/ghpvc/?username=Xentronix&label=Profile%20Views&color=blue)

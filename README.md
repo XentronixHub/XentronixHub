@@ -30,6 +30,11 @@
   <img src="https://img.shields.io/github/issues/love-angelll/autopost" alt="Issues" />
 </p>
 
+<!-- Линия прогресса -->
+<p align="center">
+  <img src="https://progress-bar.dev/80/?title=Project%20Completion" alt="Progress Bar" />
+</p>
+
 **2. [Проект 2](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**  
 Описание проекта.
 

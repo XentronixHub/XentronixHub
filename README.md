@@ -3,9 +3,16 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
 <h1 align="center">RU — Русский<br>Привет, я Xentronix
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+
+
+
+
+
+
+
 
 <!---
 XentronixHub/XentronixHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

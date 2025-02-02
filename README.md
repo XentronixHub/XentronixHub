@@ -39,6 +39,11 @@
 ## 👁️ Просмотры профиля
 ![Profile Views](https://komarev.com/ghpvc/?username=Xentronix&label=Profile%20Views&color=blue)
 
+<!-- Змейка -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/snake.svg" alt="snake" />
+</p>
+
 ### Спасибо, что заглянули в мой профиль!  
 Если вам нужно больше информации или у вас есть вопросы, не стесняйтесь писать мне.  
 

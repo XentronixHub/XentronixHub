@@ -32,8 +32,8 @@
   <img src="https://img.shields.io/badge/Project%20Completion-80%25-green" alt="Project Completion"/>
 </p> 
 
-<!-- Telegram Badge -->
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Subscribe%20Now-blue)](https://t.me/heaven_for_music_lovers) 
+<!-- Статус разработки -->
+![Development Status](https://img.shields.io/badge/Development-Active-brightgreen)
 
 **2. [Проект 2](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**  
 Описание проекта.

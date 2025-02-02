@@ -55,14 +55,12 @@
   <img src="https://img.shields.io/github/followers/Xentronix?label=Follow&style=social" alt="GitHub Followers" />
 </p>
 
-<!-- Анимация ночного города -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aniket7627/Aniket7627/main/assets/images/night_city.gif" alt="night city" />
-</p> 
 
-<!-- Часы -->
+
+<!-- Взаимодействие -->
 <p align="center">
-  <img src="https://time.is/clock.svg" alt="time" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" alt="Follow" />
+  <img src="https://img.shields.io/github/watchers/YOUR_USERNAME/REPO_NAME?style=social" alt="Watch" />
 </p>
 
 ### Спасибо, что заглянули в мой профиль!  

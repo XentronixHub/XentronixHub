@@ -30,7 +30,14 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/love_angelll/)
 
 
+## 📊 GitHub Статистика
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=love-angelll&show_icons=true&count_private=true&theme=tokyonight) <br>
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=love-angelll&layout=compact&theme=tokyonight)
 
+## 👁️ Просмотры профиля
+![Profile Views](https://komarev.com/ghpvc/?username=love-angelll&label=Profile%20Views&color=blue)
+
+### Спасибо, что заглянули в мой профиль! Если вам нужно больше информации или у вас есть вопросы, не стесняйтесь писать мне. <br><br><br><br><br><br>
 
 
 

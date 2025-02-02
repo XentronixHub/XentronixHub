@@ -28,6 +28,13 @@
   <img src="https://img.shields.io/github/stars/love-angelll/autopost?style=social" alt="Repository Status" />
 </p>
 
+<!-- Бейджики достижений -->
+<p align="center">
+  <img src="https://img.shields.io/github/forks/love-angelll/autopost" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/love-angelll/autopost" alt="Stars" />
+  <img src="https://img.shields.io/github/issues/love-angelll/autopost" alt="Issues" />
+</p>
+
 **2. [Проект 2](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**  
 Описание проекта.
 

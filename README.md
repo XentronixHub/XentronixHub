@@ -56,11 +56,7 @@
   <img src="https://komarev.com/ghpvc/?username=Xentronix&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Xentronix?label=Follow&style=social" alt="GitHub Followers" />
 </p>
-
-
-
-### Спасибо, что заглянули в мой профиль!  
-Если вам нужно больше информации или у вас есть вопросы, не стесняйтесь писать мне.  
+<p align="center">Спасибо, что заглянули в мой профиль!<br>Если вам нужно больше информации или у вас есть вопросы, не стесняйтесь писать мне.</p> 
 
 <!---
 XentronixHub/XentronixHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

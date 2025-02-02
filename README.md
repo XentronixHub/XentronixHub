@@ -32,7 +32,7 @@
 
 <!-- Линия прогресса -->
 <p align="center">
-  <img src="https://progress-bar.dev/80/?title=Project%20Completion" alt="Progress Bar" />
+  <img src="https://badge.mediastack.com/progress/80?title=Project%20Completion" alt="Project Completion Progress Bar" />
 </p>
 
 **2. [Проект 2](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**  

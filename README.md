@@ -38,10 +38,19 @@
 <!-- Линия прогресса -->
   <img src="https://img.shields.io/badge/Project%20Completion-80%25-green" alt="Project Completion"/>
 </p> 
-<!-- Проекты (Пример)
-**2. [Проект 2](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**  
-Описание проекта.
--->
+
+**2. [Telegram Bot для скачивания музыки из ВК](https://github.com/love-angelll/tg_music_chanell)**
+Музыкальный бот Телеграмм - Бот в телеграмме который позволяет искать музыку по запросу , для его работоспособности надо подписаться на каналы автора.
+
+<!-- Бейджики достижений и процентов -->
+<p align="center">
+  <img src="https://img.shields.io/github/forks/love-angelll/tg_music_chanell" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/love-angelll/tg_music_chanell" alt="Stars" />
+  <img src="https://img.shields.io/github/issues/love-angelll/tg_music_chanell" alt="Issues" />
+<!-- Линия прогресса -->
+  <img src="https://img.shields.io/badge/Project%20Completion-75%25-green" alt="Project Completion"/>
+</p> 
+
 <!--
 **3. [Проект 3](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**  
 Описание проекта.

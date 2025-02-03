@@ -30,6 +30,9 @@
 **1. [Автопостинг из Telegram в ВКонтакте](https://github.com/love-angelll/autopost)**  
 Этот проект представляет собой скрипт на Python, который автоматически публикует сообщения из Telegram-канала или чата в указанную группу ВКонтакте. По ссылке подробнее..
 
+> [!WARNING]
+> Проект находится ещё в разработке !
+
 <!-- Бейджики достижений и процентов -->
 <p align="center">
   <img src="https://img.shields.io/github/forks/love-angelll/autopost" alt="Forks" />
@@ -42,6 +45,9 @@
 **2. [Telegram Bot для скачивания музыки из ВК](https://github.com/love-angelll/tg_music_chanell)**
 <br>Музыкальный бот Телеграмм - Бот в телеграмме который позволяет искать музыку по запросу , для его работоспособности надо подписаться на каналы автора.
 
+> [!WARNING]
+> Проект находится ещё в разработке !
+
 <!-- Бейджики достижений и процентов -->
 <p align="center">
   <img src="https://img.shields.io/github/forks/love-angelll/tg_music_chanell" alt="Forks" />
@@ -49,6 +55,21 @@
   <img src="https://img.shields.io/github/issues/love-angelll/tg_music_chanell" alt="Issues" />
 <!-- Линия прогресса -->
   <img src="https://img.shields.io/badge/Project%20Completion-75%25-green" alt="Project Completion"/>
+</p> 
+
+**3. [ВКонтакте Бот для отправки музыки в Telegram](https://github.com/love-angelll/VKontakte-Bot-for-sending-music-to-Telegram-)**<br>
+Этот проект представляет собой бота ВКонтакте, который принимает музыку, отправленную в личные сообщения группы, и пересылает её в канал Telegram. Бот имеет ограничение для пользователей — до 20 треков в день, но для администратора ограничений нет.
+
+> [!WARNING]
+> Проект находится ещё в разработке !
+
+<!-- Бейджики достижений и процентов -->
+<p align="center">
+  <img src="https://img.shields.io/github/forks/love-angelll/VKontakte-Bot-for-sending-music-to-Telegram-" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/love-angelll/VKontakte-Bot-for-sending-music-to-Telegram-" alt="Stars" />
+  <img src="https://img.shields.io/github/issues/love-angelll/VKontakte-Bot-for-sending-music-to-Telegram-" alt="Issues" />
+<!-- Линия прогресса -->
+  <img src="https://img.shields.io/badge/Project%20Completion-50%25-green" alt="Project Completion"/>
 </p> 
 
 <!--

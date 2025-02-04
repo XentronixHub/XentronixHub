@@ -73,6 +73,40 @@ http://localhost:3000
 | Петя |  26    | Тирасполь   |
 | Олег |  25    | Киев      |
 
+## 💻 Код
+
+```python
+def hello():
+    print("Привет, мир!")
+
+hello()
+```
+
+---
+
+## 🛠 Поддерживаемые технологии
+```md
+- ![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+- ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+- ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3) 
+```
+
+## 🤝 Контрибьютеры
+
+👤 **Иван Фрунза**  
+📧 [ivan.frunza.os@gmail.com](mailto:ivan.frunza.os@gmail.com)  
+🔗 [GitHub](https://github.com/love-angelll) 
+
+## ⚖️ Лицензия
+
+Этот проект распространяется по лицензии **MIT**. Подробности смотрите в файле [LICENSE](LICENSE). 
+
+
+## 📞 Контакты
+
+📧 Email: [ivan.frunza.os@gmail.com](mailto:ivan.frunza.os@gmail.com)  
+🌐 Веб-сайт: [ivfrunza.com](https://ivfrunza.com) 
 
 
 

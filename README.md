@@ -57,17 +57,17 @@
   <img src="https://img.shields.io/badge/Project%20Completion-75%25-green" alt="Project Completion"/>
 </p> 
 
-**3. [ВКонтакте Бот для отправки музыки в Telegram](https://github.com/love-angelll/VKontakte-Bot-for-sending-music-to-Telegram-)**<br>
-Этот проект представляет собой бота ВКонтакте, который принимает музыку, отправленную в личные сообщения группы, и пересылает её в канал Telegram. Бот имеет ограничение для пользователей — до 20 треков в день, но для администратора ограничений нет.
+**3. [VKtoTG Music](https://github.com/love-angelll/VKtoTG-Music)**<br>
+Этот проект представляет собой бота ВКонтакте, который принимает музыку, отправленную в личные сообщения группы, и пересылает её в нашего бота Telegram. Бот имеет ограничение — до 20 треков в день.
 
 > [!WARNING]
 > Проект находится ещё в разработке !
 
 <!-- Бейджики достижений и процентов -->
 <p align="center">
-  <img src="https://img.shields.io/github/forks/love-angelll/VKontakte-Bot-for-sending-music-to-Telegram-" alt="Forks" />
-  <img src="https://img.shields.io/github/stars/love-angelll/VKontakte-Bot-for-sending-music-to-Telegram-" alt="Stars" />
-  <img src="https://img.shields.io/github/issues/love-angelll/VKontakte-Bot-for-sending-music-to-Telegram-" alt="Issues" />
+  <img src="https://img.shields.io/github/forks/love-angelll/VKtoTG-Music" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/love-angelll/VKtoTG-Music" alt="Stars" />
+  <img src="https://img.shields.io/github/issues/love-angelll/VKtoTG-Music" alt="Issues" />
 <!-- Линия прогресса -->
   <img src="https://img.shields.io/badge/Project%20Completion-50%25-green" alt="Project Completion"/>
 </p> 

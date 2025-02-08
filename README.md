@@ -8,7 +8,7 @@
 
 <!-- Автор проекта -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-XentronixHub-blue?style=for-the-badge" alt="Author">
+  <img src="https://img.shields.io/badge/LOVE-ANGELLL-blue?style=for-the-badge" alt="Author">
 </p> 
 
 <!-- Описание -->

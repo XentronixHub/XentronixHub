@@ -11,6 +11,13 @@
   <img src="https://img.shields.io/badge/AUTOR-LOVE--ANGELLL-blue?style=for-the-badge" alt="Author">
 </p> 
 
+<!-- Автор проекта -->
+<p align="center">
+  <a href="https://github.com/love-angelll" target="_blank">
+    <img src="https://img.shields.io/badge/AUTOR-LOVE--ANGELLL-blue?style=for-the-badge" alt="Author">
+  </a>
+</p>
+
 <!-- Описание -->
 **XentronixHub** — это цифровая площадка для всего, что связано с технологиями и инновациями. Здесь код оживает, а разработчики, создатели и энтузиасты собираются, чтобы исследовать, учиться и создавать передовые проекты.
 

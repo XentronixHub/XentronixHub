@@ -6,12 +6,13 @@
 <h1 align="center">Добро пожаловать в<br>XentronixHub
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!-- Автор проекта -->
+<!-- Автор проекта (просто плашка)
 <p align="center">
   <img src="https://img.shields.io/badge/AUTOR-LOVE--ANGELLL-blue?style=for-the-badge" alt="Author">
 </p> 
+-->
 
-<!-- Автор проекта -->
+<!-- Автор проекта (с переходом на гитхаб аккаунт) -->
 <p align="center">
   <a href="https://github.com/love-angelll" target="_blank">
     <img src="https://img.shields.io/badge/AUTOR-LOVE--ANGELLL-blue?style=for-the-badge" alt="Author">

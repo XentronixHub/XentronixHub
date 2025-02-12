@@ -125,7 +125,7 @@
 
 <p align="center">Последнее редактирование README.md<br>12.02.2025 | 16:30</p>  
 
-<span style="opacity: 0.5;">Последнее редактирование README.md<br>12.02.2025 | 16:30</span> 
+<p style="text-align: center; opacity: 0.5;">Последнее редактирование README.md<br>12.02.2025 | 16:30</p>
 
 
 

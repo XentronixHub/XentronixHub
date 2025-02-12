@@ -1,8 +1,6 @@
 # Основатель и соавторы
 
-## Основатель 
-
-| ![User Profile](https://github.com/love-angelll.png) [**love-angelll**](https://github.com/love-angelll) | <p align="left">Здесь может быть описание профиля или любая другая информация, которую можно редактировать.</p> |
+| ![User Profile](https://github.com/love-angelll.png) [**love-angelll**](https://github.com/love-angelll) | <p align="left">Основатель Xentronix , и многих интересных проектов на GitHub.</p> |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------| 
 
 ## Соавторы 

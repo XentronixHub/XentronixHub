@@ -21,15 +21,15 @@
 
 <!-- Просмотры профиля и количество подписчиков -->
 <div align="center">
-<a href="https://github.com/XentronixHub">
+<a href="https://github.com/Xentronix">
   <img width="150px" 
-       src="https://komarev.com/ghpvc/?username=XentronixHub&label=Profile%20views&color=318CE7&style=for-the-badge" 
+       src="https://komarev.com/ghpvc/?username=Xentronix&label=Profile%20views&color=318CE7&style=for-the-badge" 
        alt="Profile views" /></a>
-<a href="https://api.github-star-counter.workers.dev/user/XentronixHub">
+<a href="https://api.github-star-counter.workers.dev/user/Xentronix">
   <img width="147px" 
        alt="Followers" 
        title="Follow me on GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/XentronixHub?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
+       src="https://custom-icon-badges.herokuapp.com/github/followers/Xentronix?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
 <!-- Конец -->
 <br>

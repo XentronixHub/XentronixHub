@@ -19,6 +19,20 @@
   </a>
 </p>
 
+<!-- Просмотры профиля и количество подписчиков -->
+<div align="center">
+<a href="https://github.com/XentronixHub">
+  <img width="150px" 
+       src="https://komarev.com/ghpvc/?username=XentronixHub&label=Profile%20views&color=318CE7&style=for-the-badge" 
+       alt="Profile views" /></a>
+<a href="https://api.github-star-counter.workers.dev/user/XentronixHub">
+  <img width="147px" 
+       alt="Followers" 
+       title="Follow me on GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/github/followers/love-angelll?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
+ </div>
+<!-- Конец -->
+
 <!-- Описание -->
 **XentronixHub** — это цифровая площадка для всего, что связано с технологиями и инновациями. Здесь код оживает, а разработчики, создатели и энтузиасты собираются, чтобы исследовать, учиться и создавать передовые проекты.
 

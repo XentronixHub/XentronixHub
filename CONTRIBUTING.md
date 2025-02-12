@@ -9,12 +9,12 @@
   <div>
     <!-- Имя пользователя с ссылкой -->
     <a href="https://github.com/love-angelll" style="font-size: 18px; font-weight: bold; text-decoration: none; color: #0366d6;">
-      USERNAME
+      love-angelll
     </a>
 
     <!-- Описание пользователя -->
     <p style="margin: 5px 0; color: #555;">
-      Здесь может быть описание вашего профиля или любая другая информация.
+      Основатель Xentronix.
     </p>
   </div>
 </div>

@@ -22,7 +22,7 @@
 
 ## Соавторы 
 
-| ![User Profile](https://github.com/love-angelll.png)  [**USERNAME**](https://github.com/love-angelll) | Здесь может быть описание профиля или любая другая информация, которую можно редактировать. |
+|![User Profile](https://github.com/love-angelll.png)  [**USERNAME**](https://github.com/love-angelll) | Здесь может быть описание профиля или любая другая информация, которую можно редактировать. |
 
 
 .

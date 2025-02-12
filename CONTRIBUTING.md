@@ -1,9 +1,11 @@
-# Основатель и соавторы
+# CONTRIBUTING
 
-| ![User Profile](https://github.com/love-angelll.png) [**love-angelll**](https://github.com/love-angelll) | <p align="left">Основатель Xentronix , и многих интересных проектов на GitHub.</p> |
+### Основатель Xentronix
+
+| ![User Profile](https://github.com/love-angelll.png) [**love-angelll**](https://github.com/love-angelll) | <p align="left">Основатель многих интересных проектов на GitHub.</p> |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------| 
 
-## Соавторы 
+### Соавторы 
 
 | ![User Profile](https://github.com/USERNAME.png) [**love-angelll**](https://github.com/USERNAME) | <p align="left">Здесь может быть описание профиля или любая другая информация, которую можно редактировать.</p> |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|

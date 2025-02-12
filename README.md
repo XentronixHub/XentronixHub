@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/AUTOR-LOVE--ANGELLL-blue?style=for-the-badge" alt="Author">
   </a>
 </p>
+
 <!-- Просмотры профиля и количество подписчиков -->
 <div align="center">
 <a href="https://github.com/XentronixHub">
@@ -28,7 +29,7 @@
   <img width="147px" 
        alt="Followers" 
        title="Follow me on GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/love-angelll?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
+       src="https://custom-icon-badges.herokuapp.com/github/followers/XentronixHub?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
 <!-- Конец -->
 <br>

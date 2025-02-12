@@ -57,6 +57,8 @@
 > [!WARNING]
 > Проект находится ещё в разработке !
 
+Автор проекта: [Иван Фрунза](https://github.com/love-angelll) 
+
 <!-- Бейджики достижений и процентов -->
 <p align="center">
   <img src="https://img.shields.io/github/forks/love-angelll/autopost" alt="Forks" />
@@ -72,6 +74,8 @@
 > [!WARNING]
 > Проект находится ещё в разработке !
 
+Автор проекта: [Иван Фрунза](https://github.com/love-angelll) 
+
 <!-- Бейджики достижений и процентов -->
 <p align="center">
   <img src="https://img.shields.io/github/forks/love-angelll/tg_music_chanell" alt="Forks" />
@@ -86,6 +90,8 @@
 
 > [!WARNING]
 > Проект находится ещё в разработке !
+
+Автор проекта: [Иван Фрунза](https://github.com/love-angelll) 
 
 <!-- Бейджики достижений и процентов -->
 <p align="center">

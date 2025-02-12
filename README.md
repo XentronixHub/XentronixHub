@@ -116,12 +116,8 @@
 
 ---
 
-<!-- Бейдж подписчиков | 👁️ Просмотры профиля
-<h2 align="center">Информация о профиле</h2> -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xentronix&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Xentronix?label=Follow&style=social" alt="GitHub Followers" />
-</p>
+<!-- Прощание -->
+
 <p align="center">Спасибо, что заглянули в мой профиль!<br>Если вам нужно больше информации или у вас есть вопросы, не стесняйтесь писать мне.</p> 
 
 

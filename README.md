@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/AUTOR-LOVE--ANGELLL-blue?style=for-the-badge" alt="Author">
   </a>
 </p>
-
 <!-- Просмотры профиля и количество подписчиков -->
 <div align="center">
 <a href="https://github.com/XentronixHub">
@@ -32,7 +31,7 @@
        src="https://custom-icon-badges.herokuapp.com/github/followers/love-angelll?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
 <!-- Конец -->
-
+<br>
 <!-- Описание -->
 **XentronixHub** — это цифровая площадка для всего, что связано с технологиями и инновациями. Здесь код оживает, а разработчики, создатели и энтузиасты собираются, чтобы исследовать, учиться и создавать передовые проекты.
 

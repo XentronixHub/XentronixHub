@@ -1,20 +1,21 @@
 # Основатель и соавторы
 
 ## Основатель 
-<div style="display: flex; align-items: center; border: 2px solid #ccc; padding: 10px; border-radius: 10px; max-width: 600px;">
 
-  <!-- Фото профиля -->
-  <img src="https://github.com/love-angelll.png" width="80" height="80" style="border-radius: 50%; border: 2px solid #333; margin-right: 15px;">
+<div style="display: flex; align-items: flex-start; border: 2px solid #ccc; padding: 10px; border-radius: 10px; max-width: 700px;">
 
-  <div>
-    <!-- Имя пользователя с ссылкой -->
-    <a href="https://github.com/love-angelll" style="font-size: 18px; font-weight: bold; text-decoration: none; color: #0366d6;">
-      love-angelll
-    </a>
+  <!-- Рамка с фото профиля -->
+  <div style="border: 2px solid #333; padding: 5px; border-radius: 10px; margin-right: 15px; text-align: center;">
+    <img src="https://github.com/love-angelll.png" width="100" height="100" style="border-radius: 50%; border: 2px solid #333;">
+    <div style="margin-top: 5px;">
+      <a href="https://github.com/love-angelll" style="text-decoration: none; color: #0366d6; font-weight: bold;">love-angelll</a>
+    </div>
+  </div>
 
-    <!-- Описание пользователя -->
-    <p style="margin: 5px 0; color: #555;">
-      Основатель Xentronix.
+  <!-- Описание с рамкой справа -->
+  <div style="border: 2px solid #ccc; padding: 10px; border-radius: 10px; flex-grow: 1;">
+    <p style="color: #555; font-size: 14px;">
+      Здесь может быть описание вашего профиля или любая другая информация. Вы можете редактировать этот текст, чтобы рассказать больше о себе.
     </p>
   </div>
 </div>

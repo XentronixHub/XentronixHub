@@ -106,5 +106,118 @@ hello()
 📧 Email: [ivan.frunza.os@gmail.com](mailto:ivan.frunza.os@gmail.com)  
 🌐 Веб-сайт: [ivfrunza.com](https://ivfrunza.com) 
 
+### 🔥 Полный список плашек для README.md
+
+<!-- GitHub Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=blue&style=for-the-badge)
+```markdown
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=blue&style=for-the-badge)
+```
+
+<!-- GitHub Followers -->
+![Followers](https://img.shields.io/github/followers/USERNAME?label=Followers&style=for-the-badge&color=blue)
+```markdown
+![Followers](https://img.shields.io/github/followers/USERNAME?label=Followers&style=for-the-badge&color=blue)
+```
+
+<!-- GitHub Stars -->
+![Stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge&color=yellow)
+```markdown
+![Stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge&color=yellow)
+```
+
+<!-- GitHub Forks -->
+![Forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=for-the-badge&color=green)
+```markdown
+![Forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=for-the-badge&color=green)
+```
+
+<!-- GitHub Issues -->
+![Issues](https://img.shields.io/github/issues/USERNAME/REPOSITORY?style=for-the-badge&color=red)
+```markdown
+![Issues](https://img.shields.io/github/issues/USERNAME/REPOSITORY?style=for-the-badge&color=red)
+```
+
+<!-- GitHub Pull Requests -->
+![Pull Requests](https://img.shields.io/github/issues-pr/USERNAME/REPOSITORY?style=for-the-badge&color=orange)
+```markdown
+![Pull Requests](https://img.shields.io/github/issues-pr/USERNAME/REPOSITORY?style=for-the-badge&color=orange)
+```
+
+<!-- GitHub License -->
+![License](https://img.shields.io/github/license/USERNAME/REPOSITORY?style=for-the-badge&color=blue)
+```markdown
+![License](https://img.shields.io/github/license/USERNAME/REPOSITORY?style=for-the-badge&color=blue)
+```
+
+<!-- GitHub Repo Size -->
+![Repo Size](https://img.shields.io/github/repo-size/USERNAME/REPOSITORY?style=for-the-badge&color=blueviolet)
+```markdown
+![Repo Size](https://img.shields.io/github/repo-size/USERNAME/REPOSITORY?style=for-the-badge&color=blueviolet)
+```
+
+<!-- GitHub Last Commit -->
+![Last Commit](https://img.shields.io/github/last-commit/USERNAME/REPOSITORY?style=for-the-badge&color=green)
+```markdown
+![Last Commit](https://img.shields.io/github/last-commit/USERNAME/REPOSITORY?style=for-the-badge&color=green)
+```
+
+<!-- GitHub Language -->
+![Language](https://img.shields.io/github/languages/top/USERNAME/REPOSITORY?style=for-the-badge)
+```markdown
+![Language](https://img.shields.io/github/languages/top/USERNAME/REPOSITORY?style=for-the-badge)
+```
+
+<!-- Twitter -->
+![Twitter](https://img.shields.io/twitter/follow/USERNAME?style=for-the-badge&color=blue)
+```markdown
+![Twitter](https://img.shields.io/twitter/follow/USERNAME?style=for-the-badge&color=blue)
+```
+
+<!-- Telegram -->
+![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-blue?style=for-the-badge&logo=telegram)
+```markdown
+![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-blue?style=for-the-badge&logo=telegram)
+```
+
+<!-- Discord -->
+![Discord](https://img.shields.io/discord/ID?style=for-the-badge&color=blue)
+```markdown
+![Discord](https://img.shields.io/discord/ID?style=for-the-badge&color=blue)
+```
+
+<!-- LinkedIn -->
+![LinkedIn](https://img.shields.io/badge/LinkedIn-USERNAME-blue?style=for-the-badge&logo=linkedin)
+```markdown
+![LinkedIn](https://img.shields.io/badge/LinkedIn-USERNAME-blue?style=for-the-badge&logo=linkedin)
+```
+
+<!-- YouTube -->
+![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)
+```markdown
+![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)
+```
+
+<!-- Website -->
+![Website](https://img.shields.io/badge/Website-VISIT-lightgrey?style=for-the-badge&logo=google-chrome)
+```markdown
+![Website](https://img.shields.io/badge/Website-VISIT-lightgrey?style=for-the-badge&logo=google-chrome) 
+```
+
+---
+
+### 🎨 Кастомные плашки
+- Используй сервис [Shields.io](https://shields.io/)
+```markdown
+![Custom Badge](https://img.shields.io/badge/TEXT-COLOR?style=for-the-badge&logo=LOGO_NAME)
+
+#### Пример 
+
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python) 
+
+```markdown
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python) 
+```
+
 
 

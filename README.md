@@ -68,41 +68,7 @@
 <!-- Линия прогресса -->
   <img src="https://img.shields.io/badge/Project%20Completion-80%25-green" alt="Project Completion"/>
 </p> 
-<!--
-**2. [Telegram Bot для скачивания музыки из ВК](https://github.com/love-angelll/tg_music_chanell)**
-<br>Музыкальный бот Телеграмм - Бот в телеграмме который позволяет искать музыку по запросу , для его работоспособности надо подписаться на каналы автора.
 
-> [!WARNING]
-> Проект находится ещё в разработке !
-
-Автор проекта: [Иван Фрунза](https://github.com/love-angelll) 
-
-<!-- Бейджики достижений и процентов -->
-<p align="center">
-  <img src="https://img.shields.io/github/forks/love-angelll/tg_music_chanell" alt="Forks" />
-  <img src="https://img.shields.io/github/stars/love-angelll/tg_music_chanell" alt="Stars" />
-  <img src="https://img.shields.io/github/issues/love-angelll/tg_music_chanell" alt="Issues" />
-<!-- Линия прогресса -->
-  <img src="https://img.shields.io/badge/Project%20Completion-75%25-green" alt="Project Completion"/>
-</p> 
-
-**3. [VKtoTG Music](https://github.com/love-angelll/VKtoTG-Music)**<br>
-Этот проект представляет собой бота ВКонтакте, который принимает музыку, отправленную в личные сообщения группы, и пересылает её в нашего бота Telegram. Бот имеет ограничение — до 20 треков в день.
-
-> [!WARNING]
-> Проект находится ещё в разработке !
-
-Автор проекта: [Иван Фрунза](https://github.com/love-angelll) 
-
-<!-- Бейджики достижений и процентов -->
-<p align="center">
-  <img src="https://img.shields.io/github/forks/love-angelll/VKtoTG-Music" alt="Forks" />
-  <img src="https://img.shields.io/github/stars/love-angelll/VKtoTG-Music" alt="Stars" />
-  <img src="https://img.shields.io/github/issues/love-angelll/VKtoTG-Music" alt="Issues" />
-<!-- Линия прогресса -->
-  <img src="https://img.shields.io/badge/Project%20Completion-50%25-green" alt="Project Completion"/>
-</p> 
--->
 <!--
 **3. [Проект 3](https://github.com/love-angelll/love-angelll/blob/secondary/README.md)**  
 Описание проекта.
@@ -124,7 +90,7 @@
 <p align="center">Спасибо, что заглянули в мой профиль!<br>Если вам нужно больше информации или у вас есть вопросы, не стесняйтесь писать мне.</p>
 
 <blockquote style="text-align: center; opacity: 0.5; font-style: italic;">
-    Последнее редактирование README.md<br>12.02.2025 | 16:35
+    Последнее редактирование README.md<br>28.02.2025 | 10:23
 </blockquote> 
 
 

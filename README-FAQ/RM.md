@@ -221,3 +221,130 @@ hello()
 
 
 
+<h1>🚀 BotHub</h1>
+<h3>Универсальная платформа для управления Telegram и VK ботами.</h3>
+
+<p>
+  <img src="https://img.shields.io/github/stars/Ivenza/BotHub?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/Ivenza/BotHub?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/license/Ivenza/BotHub" alt="License">
+  <img src="https://img.shields.io/github/contributors/Ivenza/BotHub" alt="Contributors">
+  <img src="https://img.shields.io/github/last-commit/Ivenza/BotHub" alt="Last Commit">
+</p>
+
+<hr>
+
+<h2>🔥 О проекте</h2>
+<p><strong>BotHub</strong> — это удобная панель для управления вашими ботами в VK и Telegram. Проект предоставляет интерфейс для мониторинга, управления беседами, рассылками и модерацией.</p>
+
+<hr>
+
+<h2>📌 Функционал</h2>
+<ul>
+  <li>Автоматическая регистрация бесед</li>
+  <li>Просмотр активных бесед</li>
+  <li>Управление пользователями</li>
+  <li>Рассылка сообщений</li>
+  <li>Telegram и VK интеграция</li>
+  <li>Панель администратора</li>
+  <li>Поддержка платежных систем</li>
+</ul>
+
+<hr>
+
+<h2>🎯 Стек технологий</h2>
+<table>
+  <tr>
+    <th>Технология</th>
+    <th>Версия</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>3.11</td>
+  </tr>
+  <tr>
+    <td>Flask</td>
+    <td>2.3</td>
+  </tr>
+  <tr>
+    <td>MySQL</td>
+    <td>8.0</td>
+  </tr>
+  <tr>
+    <td>Bootstrap</td>
+    <td>5.3</td>
+  </tr>
+  <tr>
+    <td>SQLite</td>
+    <td>3.39</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>🔑 Установка</h2>
+<pre><code>
+# Клонирование репозитория
+git clone https://github.com/Ivenza/BotHub.git
+cd BotHub
+
+# Установка зависимостей
+pip install -r requirements.txt
+
+# Настройка базы данных
+python init_db.py
+</code></pre>
+
+<hr>
+
+<h2>⚙️ Конфигурация</h2>
+<p>Создайте файл <code>.env</code> в корне проекта со следующим содержанием:</p>
+<pre><code>
+TOKEN=ваш_токен_бота
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=пароль
+DB_NAME=bothub
+</code></pre>
+
+<hr>
+
+<h2>🚀 Запуск</h2>
+<pre><code>
+python app.py
+</code></pre>
+<p>Приложение будет доступно по адресу <a href="http://localhost:5000" target="_blank">http://localhost:5000</a>.</p>
+
+<hr>
+
+<h2>🧑‍💻 Разработчики</h2>
+<table>
+  <tr>
+    <th>Имя</th>
+    <th>Роль</th>
+    <th>Контакты</th>
+  </tr>
+  <tr>
+    <td>Иван Фрунза</td>
+    <td>Backend, Design</td>
+    <td><a href="https://t.me/IvenzaOfficial" target="_blank">Telegram</a></td>
+  </tr>
+  <tr>
+    <td>Друг</td>
+    <td>Разработка</td>
+    <td><a href="https://vk.com/" target="_blank">VK</a></td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>📄 Лицензия</h2>
+<p>Этот проект распространяется под лицензией MIT.</p>
+
+<hr>
+
+<h2>⭐ Поддержите проект!</h2>
+<p>Если вам понравился проект, поставьте ⭐ и сделайте fork репозитория!</p>
+
+
+

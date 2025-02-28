@@ -25,11 +25,17 @@
   <img width="150px" 
        src="https://komarev.com/ghpvc/?username=Xentronix&label=Profile%20views&color=318CE7&style=for-the-badge" 
        alt="Profile views" /></a>
-<a href="https://api.github-star-counter.workers.dev/user/Xentronix">
-  <img width="150px"
-       src="https://custom-icon-badges.herokuapp.com/github/followers/Xentronix?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
+
+<!-- Подписчики с помощью shields.io -->
+<a href="https://github.com/Xentronix">
+  <img width="150px" 
+       src="https://img.shields.io/github/followers/Xentronix?label=Followers&color=318CE7&style=for-the-badge" 
+       alt="GitHub Followers"/>
+</a>
+
 <!-- Конец -->
+
 <br>
 
 <!-- Описание -->

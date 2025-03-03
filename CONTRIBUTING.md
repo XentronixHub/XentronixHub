@@ -7,7 +7,7 @@
 <!-- включатся когда будет какой-то соавтор
 #### Соавторы 
 
-| <img src="https://github.com/love-angelll.png" width="150"> [**love-angelll**](https://github.com/love-angelll) | <p align="left">Основатель многих интересных проектов на GitHub.</p> |
+| <img src="https://github.com/love-angelll.png" width="150"><br> [**love-angelll**](https://github.com/love-angelll) | <p align="left">Основатель многих интересных проектов на GitHub.</p> |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------| 
 -->
 
